@@ -65,10 +65,10 @@ h2{
 }
 
 .card{
-    background:white;
+     background:#1a1a1a;
     padding:25px;
     text-align:center;
-    border:2px solid #ff2a2a;
+    border:1px solid #ff2a2a;
     border-radius:8px;
 }
 
